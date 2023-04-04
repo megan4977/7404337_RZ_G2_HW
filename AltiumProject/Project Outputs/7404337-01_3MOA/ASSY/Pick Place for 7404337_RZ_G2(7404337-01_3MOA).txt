@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\7404337-01_3MOA\ASSY\Pick Place for 7404337_RZ_G2(7404337-01_3MOA).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/04/23
+Time:       11:34
+Revision:   5468d3bf876c90e2c3a8e4dcc5158a826afc3d72
+Variant:    7404337-01_3MOA
+Units used: mil
+
+Designator Comment             Layer       Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                  
+U1         ATtiny1616          TopLayer    VQFN-20_(3MMX3MM)        349.600       373.950       135      "IC MCU 8BIT 16KB FLASH 20VQFN"                              
+J3         5_PIN_PROG_PADS     BottomLayer 5PIN_PGRM_ANCHORED       380.000       111.000       270      "Connector for pwr, gnd, prgm, sw, accel"                    
+J2         7404338             TopLayer    CONTACT,RZG2POSBATT      245.079       241.024       0        "Sig Custom Battery contact, custom RZGENII CR1632 Positive" 
+R13        "RES 0402 1%"       TopLayer    R_0402_2                 439.465       450.520       0        "RES 0OHM 1% 1/16W 0402"                                     
+D1         LED_3MOA            TopLayer    RZG2_LED_ELM650992-XX_V  380.243       907.500       0        "LED Jenoptik 25um red"                                      
+R12        "RES 0402 1%"       TopLayer    R_0402_2                 465.785       377.068       135      "RES 0OHM 1% 1/16W 0402"                                     
+R11        "RES 0402 1%"       TopLayer    R_0402_2                 509.831       266.892       0        "RES 0OHM 1% 1/16W 0402"                                     
+U3         TLV8542             TopLayer    TLV8542_8XFQFNRUG_V      535.689       398.380       45       "IC CMOS 2 CIRCUIT 8X2QFN"                                   
+C5         "Cap 0402"          TopLayer    C_0402                   559.785       450.068       135      "CAP CER 0.1UF 16V X7R 0402"                                 
+U2         LIS2DE12            TopLayer    LGA12C50P4X4_200X200X100 208.432       424.440       225      "Accelerometer X, Y, Z Axis 12VFLGA"                         
+SW1        TL3340AF160QG       TopLayer    FP-TL3340AF160QG-MFG     690.285       212.068       90       "SWITCH TACTILE SPST-NO 0.05A 12V"                           
+R10        "RES 0402"          TopLayer    R_0402_2                 642.713       364.399       315      "80.6 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402"            
+R9         "RES 0402"          TopLayer    R_0402_2                 597.785       349.068       315      "RES SMD 1.02K OHM 1% 1/16W 0402"                            
+R8         "RES 0402 1%"       TopLayer    R_0402_2                 544.785       203.068       270      "RES 1M OHM 5% 1/16W 0402 100ppm"                            
+R7         "RES 0402 1%"       TopLayer    R_0402_2                 484.785       485.068       0        "RES 1M OHM 5% 1/16W 0402 100ppm"                            
+R6         "RES 0402 1%"       TopLayer    R_0402_2                 584.785       203.368       90       "RES 3M OHM 5% 1/16W 0402 100ppm"                            
+R4         "RES 0402 1%"       TopLayer    R_0402_2                 260.575       461.442       135      "RES 4.7K OHM 1% 1/16W 0402"                                 
+R3         "RES 0402 1%"       TopLayer    R_0402_2                 316.785       485.068       0        "RES 4.7K OHM 1% 1/16W 0402"                                 
+Q4         DMP21D0UFB4         TopLayer    X2-DFN1006-3             570.438       294.194       180      "MOSFET P-CH 20V 770MA 3DFN"                                 
+Q3         DMP21D0UFB4         TopLayer    X2-DFN1006-3             259.347       311.366       45       "MOSFET P-CH 20V 770MA 3DFN"                                 
+J1         70-9155-001-615-004 TopLayer    CONTACT,SINGLE           261.024       72.992        0        "Battery contact, Kyocera, 70-9155-001-615-004"              
+C4         "Cap 0402"          TopLayer    C_0402                   159.443       385.863       315      "CAP CER 0.1UF 16V X7R 0402"                                 
+C3         "Cap 0402"          TopLayer    C_0402                   505.826       206.236       270      "CAP CER 0.047UF 25V X7R 0402 .55mm max"                     
+C1         "Cap 0402"          TopLayer    C_0402                   452.425       288.346       90       "CAP CER 10UF 10V 20% X5R 0402"                              

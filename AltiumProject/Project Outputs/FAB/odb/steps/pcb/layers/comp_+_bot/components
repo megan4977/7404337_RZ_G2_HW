@@ -1,0 +1,14 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 0 0.28 0.111 90 N J3 5_PIN_PROG_PADS ;0=1,1=0.0600
+TOP 0 0.28 0.111 90 N 1 0 1
+TOP 1 0.33 0.111 90 N 3 0 2
+TOP 2 0.38 0.111 90 N 4 15 3
+TOP 3 0.43 0.111 90 N 17 12 4
+TOP 4 0.48 0.111 90 N 11 1 5
+#

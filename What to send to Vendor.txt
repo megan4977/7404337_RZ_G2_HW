@@ -1,0 +1,5 @@
+To Creat a Vendor package-
+Generate the fab files, generate the assy files.
+After generating new fab and assembly files, put a copy of the mechanical drawing and the stackup in the fab folder. 
+If Vendor is programming add a folder for FW under the project outputs and include the hex and elf files with rev number in title.
+If Vendor is testing, provide a copy of a test procedure.

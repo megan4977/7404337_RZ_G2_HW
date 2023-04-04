@@ -1,0 +1,124 @@
+*************************************************************
+FileName = 7404337_RZ_G2.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\profile
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\polyimide_1\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\polyimide_1\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\polyimide\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\polyimide\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\polyimide_2\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\polyimide_2\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\adhesive_with_backing\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\adhesive_with_backing\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\stiffener_fr4\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\stiffener_fr4\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_blind_vias_mid2-bottom\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_blind_vias_mid2-bottom\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_blind_vias_mid2-bottom\tools
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_drawing_top-bottom\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\keepoutlayer\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\keepoutlayer\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_drawing_mid2-bottom\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_drawing_mid2-bottom\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_guide_top-bottom\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\layer_2\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\layer_2\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\top_layer_1\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\top_layer_1\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_guide_mid2-bottom\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\drill_guide_mid2-bottom\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\mechanical_2\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\mechanical_2\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\layer_3\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\layer_3\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\cutout_in_stiffener\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\cutout_in_stiffener\attrlist
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\FAB\odb\matrix\matrix
+
