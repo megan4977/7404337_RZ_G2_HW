@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R13 Old Comment=RES 0402 1% New Comment=RES 0402
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R_0402_2"; UniqueID = "\CZPNZLXF" ("\CZPNZLXF")
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Digi-key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DPN"; Value = "311-20.0KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "RC0402FR-0720KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20K"; VariantName = "[No Variations]"

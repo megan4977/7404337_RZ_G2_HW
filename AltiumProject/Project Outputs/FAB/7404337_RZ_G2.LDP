@@ -1,4 +1,4 @@
-Layer Pairs Export File for PCB: C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\7404337_RZ_G2.PcbDoc
+Layer Pairs Export File for PCB: C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_HW\AltiumProject\7404337_RZ_G2.PcbDoc
 LayersSetName=Top_Bot_Thru_Holes|DrillFile=7404337_rz_g2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
 LayersSetName=Top_Bot_Slot_Holes|DrillFile=7404337_rz_g2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
 LayersSetName=3_Bot_Blind_Vias|DrillFile=7404337_rz_g2-roundholes.tx1|DrillLayers=g2,gbl

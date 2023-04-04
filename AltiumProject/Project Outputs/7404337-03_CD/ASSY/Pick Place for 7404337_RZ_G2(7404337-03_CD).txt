@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\7404337-03_CD\ASSY\Pick Place for 7404337_RZ_G2(7404337-03_CD).txt
+C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_HW\AltiumProject\Project Outputs\7404337-03_CD\ASSY\Pick Place for 7404337_RZ_G2(7404337-03_CD).txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       03/04/23
-Time:       11:33
-Revision:   5468d3bf876c90e2c3a8e4dcc5158a826afc3d72
+Date:       04/04/23
+Time:       10:58
+Revision:   d13457853eb0a4fbcb45eb2e3cb2c5acab395754
 Variant:    7404337-03_CD
 Units used: mil
 

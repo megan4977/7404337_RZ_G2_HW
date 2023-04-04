@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\7404337-02_6MOA\ASSY\Pick Place for 7404337_RZ_G2(7404337-02_6MOA).txt
+C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_HW\AltiumProject\Project Outputs\7404337-02_6MOA\ASSY\Pick Place for 7404337_RZ_G2(7404337-02_6MOA).txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       03/04/23
-Time:       11:37
-Revision:   5468d3bf876c90e2c3a8e4dcc5158a826afc3d72
+Date:       04/04/23
+Time:       10:59
+Revision:   d13457853eb0a4fbcb45eb2e3cb2c5acab395754
 Variant:    7404337-02_6MOA
 Units used: mil
 
@@ -14,7 +14,7 @@ Designator Comment             Layer       Footprint                Center-X(mil
 U1         ATtiny1616          TopLayer    VQFN-20_(3MMX3MM)        349.600       373.950       135      "IC MCU 8BIT 16KB FLASH 20VQFN"                              
 J3         5_PIN_PROG_PADS     BottomLayer 5PIN_PGRM_ANCHORED       380.000       111.000       270      "Connector for pwr, gnd, prgm, sw, accel"                    
 J2         7404338             TopLayer    CONTACT,RZG2POSBATT      245.079       241.024       0        "Sig Custom Battery contact, custom RZGENII CR1632 Positive" 
-R13        "RES 0402 1%"       TopLayer    R_0402_2                 439.465       450.520       0        "RES 0OHM 1% 1/16W 0402"                                     
+R13        "RES 0402"          TopLayer    R_0402_2                 439.465       450.520       0        "RES SMD 20K OHM 1% 1/16W 0402"                              
 D1         LED_6MOA            TopLayer    RZG2_LED_ELM650992-XX_V  380.243       907.500       0        "LED Jenoptik 50um red"                                      
 R12        "RES 0402 1%"       TopLayer    R_0402_2                 465.785       377.068       135      "RES 0OHM 1% 1/16W 0402"                                     
 R11        "RES 0402 1%"       TopLayer    R_0402_2                 509.831       266.892       0        "RES 0OHM 1% 1/16W 0402"                                     

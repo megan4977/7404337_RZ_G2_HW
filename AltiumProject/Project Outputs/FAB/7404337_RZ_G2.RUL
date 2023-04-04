@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\7404337_RZ_G2.PcbDoc
+DRC Rules Export File for PCB: C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_HW\AltiumProject\7404337_RZ_G2.PcbDoc
 RuleKind=Width|RuleName=Width_3V|Scope=Board|Minimum=8.00
 RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00

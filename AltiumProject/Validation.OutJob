@@ -535,7 +535,7 @@ Configuration23_Name1=OutputConfigurationParameter1
 Configuration23_Item1=DifferenceLevel1=1|DifferenceLevel10=1|DifferenceLevel11=1|DifferenceLevel12=1|DifferenceLevel13=1|DifferenceLevel14=1|DifferenceLevel15=1|DifferenceLevel16=1|DifferenceLevel17=1|DifferenceLevel18=1|DifferenceLevel19=1|DifferenceLevel2=1|DifferenceLevel20=1|DifferenceLevel21=1|DifferenceLevel22=1|DifferenceLevel23=1|DifferenceLevel24=1|DifferenceLevel25=1|DifferenceLevel26=1|DifferenceLevel27=1|DifferenceLevel28=1|DifferenceLevel29=1|DifferenceLevel3=1|DifferenceLevel30=1|DifferenceLevel31=1|DifferenceLevel32=1|DifferenceLevel33=1|DifferenceLevel34=1|DifferenceLevel35=1|DifferenceLevel36=1|DifferenceLevel37=1|DifferenceLevel38=1|DifferenceLevel39=1|DifferenceLevel4=1|DifferenceLevel40=1|DifferenceLevel41=1|DifferenceLevel42=1|DifferenceLevel43=1|DifferenceLevel5=1|DifferenceLevel6=1|DifferenceLevel7=1|DifferenceLevel8=1|DifferenceLevel9=1|Record=DiffReportView|DocumentPath=C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_CD\7404337_RZ_G2_CD.PcbDoc
 
 [PublishSettings]
-OutputFilePath1=C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\7404337_RZ_G2_DesignRule.PDF
+OutputFilePath1=C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_HW\AltiumProject\Project Outputs\7404337_RZ_G2_DesignRule.PDF
 ReleaseManaged1=0
 OutputBasePath1=Project Outputs\
 OutputPathMedia1=
@@ -550,7 +550,7 @@ OutputFileNameSpecial1=
 OpenOutput1=1
 PromptOverwrite1=1
 PublishMethod1=0
-ZoomLevel1=51
+ZoomLevel1=17
 FitSCHPrintSizeToDoc1=0
 FitPCBPrintSizeToDoc1=0
 GenerateNetsInfo1=1
@@ -577,7 +577,7 @@ OutputFileNameSpecial2=
 OpenOutput2=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2\Project Outputs\7404337_RZ_G2_DesignRule.PDF
+RelativeOutputPath1=C:\Users\mmeagher\Documents\Projects\RomeoZeroGenII\7404337_RZ_G2_HW\AltiumProject\Project Outputs\7404337_RZ_G2_DesignRule.PDF
 OpenOutputs1=1
 RelativeOutputPath2=Project Outputs Validation\
 OpenOutputs2=1
